@@ -1,6 +1,6 @@
 # Article Template
 
-This is a simple template for writing academic papers. It uses bibtex for tracking bibliographic information and Pandoc to convert the content in a correctly formatted document.
+This is a simple template for writing academic papers. It uses bibtex for tracking bibliographic information and Pandoc to convert the content to a correctly formatted document.
 
 ## Installation
 
