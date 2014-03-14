@@ -14,4 +14,4 @@ This is a simple template for writing academic papers. It uses bibtex for tracki
 
 ## Exporing the paper for submission or publishing
 
-Simply run `make` from the commandline. out.docx will be created and should be appropriately formatted. Currently APA 6th edition is the only format supported and will be used by default.
+Simply run `make` from the command line. A new file, out.docx, should be created and should be appropriately formatted. Currently APA 6th edition is the only format supported and will be used by default.
